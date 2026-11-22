@@ -1,0 +1,8 @@
+{
+  "aliyun_WorkspaceId": "替换为阿里云工作空间 ID",
+  "aliyun_APIKEY": "替换为阿里云 API 密钥",
+  "deepseek_APIKEY": "替换为 DeepSeek API 密钥",
+  "llm_role": "你是一个语音助手，请用简短、自然的中文回答。",
+  "tts_voice": "longanhuan_v3.1",
+  "tts_instruction": "像跟熟悉的朋友聊天一样，语气轻松亲切，重点词稍微加重，句间自然停顿。"
+}
